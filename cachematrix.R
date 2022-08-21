@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions 
+##these two functions will calculate inverse of the matrix and stock the inverse in cache
+##in order to improve the speed of the script
 
 ## Write a short comment describing this function
 ## this function is used to ctreate an object that stores matrix and calculate inverse before caching
